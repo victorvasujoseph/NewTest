@@ -15,23 +15,29 @@ Data Understanding:
 
 Collect customer data: demographics, purchase history, customer service interactions, etc.
 Perform EDA: Summary statistics, visualize distributions, correlation analysis.
+
 Data Preparation:
 
 Select features relevant to customer behavior and interaction.
+
 Clean data: Handle missing values, remove duplicates, address outliers.
 Feature engineering: Create new features such as customer tenure, average purchase value.
 Normalize/standardize features as needed.
+
+
 Modeling:
 
 Choose models: Logistic regression, decision trees, random forests.
 Split data into training and test sets.
 Train models and tune hyperparameters.
 Evaluate models using metrics like accuracy, precision, recall, and ROC-AUC.
+
 Evaluation:
 
 Compare model performance against business objectives.
 Validate model assumptions and ensure robustness.
 Interpret model outputs and ensure they align with business insights.
+
 Deployment:
 
 Integrate the churn prediction model into the CRM system.
