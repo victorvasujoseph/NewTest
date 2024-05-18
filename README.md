@@ -38,7 +38,6 @@ The acceptance rate is higher among drivers who have adult passengers and are no
 
 Drivers with lower incomes who frequent cheap restaurants also show a higher acceptance rate for bar coupons, indicating that cost-effective social options are appealing to them.
 
-# Conclusion
 Based on these observations, we can hypothesize that drivers who accepted bar coupons are generally younger, socially active, and budget-conscious individuals who frequently visit bars and engage in social activities with adults. These drivers are likely to be receptive to promotional offers that enhance their social experiences in an affordable manner.
 
 More details on the logic and visualizations can be found here [GitHub Pages](https://github.com/victorvasujoseph/coupon_acceptance/blob/main/prompt.ipynb)
