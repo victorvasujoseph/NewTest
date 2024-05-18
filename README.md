@@ -8,19 +8,11 @@ This data comes to us from the UCI Machine Learning repository and was collected
 
 # Approach
 
-### Step 1 :
-Load and inspect the data to understand its structure.
+### Step 1 : Data Loading and Cleaning
+### Step 2 : Data Conversion
+### Step 3 : Defining Groups
+### Step 4 : Analyzing Characteristics
+### Step 5 : Visualizing Insights
 
-## Step 2 :
-Perform EDA to get a sense of the data distribution and key patterns.
-
-## Step 3 :
-Clean and prepare the data to ensure it's ready for analysis.
-
-## Step 4 : 
-Use visualizations to compare features between those who accepted and those who did not.
-
-## Step 5 : 
-Analyze probability distributions to identify distinguishing factors.
 
 # Conclusion:
